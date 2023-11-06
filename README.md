@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud and DevOps**
 
-- 📫 How to reach me **nityanand.madpathi@gmail.com**
+- 📫 How to reach me **nityanandmadpathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
