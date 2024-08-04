@@ -3,7 +3,7 @@
 
 - 🔭 Looking for full-time opportunities 
 
-- 🌱 Data Analytics, Data Engineering and Cloud Enthusiast
+- 🌱 Business/Data Analytics, Data Engineering and Cloud Enthusiast
 
 - 📫 How to reach me **nityanandmadpathi@gmail.com**
 
