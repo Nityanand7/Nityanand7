@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nityanand Madpathi</h1>
-<h3 align="center">Software Engineer. Seeking opportunities where I can use my technical and analytical skills to solve real-life problems.</h3>
+<h3 align="center">Senior Data Analyst. Seeking opportunities where I can use my technical and analytical skills to solve real-life problems.</h3>
 
 - 🔭 Looking for full-time opportunities 
 
