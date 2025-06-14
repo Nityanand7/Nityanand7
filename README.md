@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nityanand Madpathi</h1>
-<h3 align="center">Senior Data Analyst. Seeking opportunities where I can use my technical and analytical skills to solve real-life problems.</h3>
+<h3 align="center">Data Engineer | Data Analyst. Seeking opportunities where I can use my analytical and engineering skills to solve real-life problems.</h3>
 
 - 🔭 Looking for full-time opportunities 
 
-- 🌱 BI, AI, ML, Data Analytics, Data Engineering and Cloud Enthusiast
+- 🌱 Data Engineering, Data Analytics, BI, AI, ML and Cloud Enthusiast
 
 - 📫 How to reach me **nityanandmadpathi@gmail.com**
 
