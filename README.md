@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nityanand Madpathi</h1>
 
-- 🌱 AI, ML, Data Engineering, Data Analytics, and Cloud Enthusiast
+- 🌱 AI, ML, Data Engineering, Analytics, and Cloud Enthusiast
 
 - 📫 How to reach me **nityanandmadpathi@gmail.com**
 
